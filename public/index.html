@@ -1,0 +1,103 @@
+<html>
+  <head>
+	<meta name="generator" content="Hugo 0.51" />
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.5.1/dist/leaflet.css" />
+     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css"
+       integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp"
+       crossorigin="anonymous" />
+     <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.css" />
+     <link rel="stylesheet" type="text/css" href="/default.css" />
+     <title>Document</title>
+</head>
+
+<body>
+
+  
+
+<div id="accordion">
+
+  <div id="maps-card" class="card">
+    <div class="card-header">
+      <span id="maps-card-text">Maps</span>
+      <button class="card-link close" data-toggle="collapse" data-target="#collapseOne">
+        <i class="fa fa-arrows-alt-v"></i>
+      </button>
+    </div>
+    <div id="collapseOne" class="collapse show" data-parent="#accordion">
+      <div id="button-card-body" class="card-body">
+        <form id="map-select">
+  <div>
+    Mathura:
+    </div>
+  <label><input type="radio" value="27.510112720964297,77.66918241977692" data-zoom="17" data-name="GovindNagar" name="mapChoice" checked="checked">Govind Nagar</label><br>
+  <label><input type="radio" value="27.505230,77.666920" data-zoom="17" data-name="JanmBhumi" name="mapChoice">Krishna Janmbhumi</label><br>
+  <label><input type="radio" value="27.4911,77.6619" data-zoom="16" data-name="BSACollege" name="mapChoice">BSA College Road</label><br>
+  <label><input type="radio" value="27.5036, 77.67995" data-zoom="16" data-name="OldMathura" name="mapChoice">Old Mathura</label><br>
+  <label><input type="radio" value="27.518454,77.672675" data-zoom="18" data-name="Tapobhumi" name="mapChoice">Gayatri Tapobhumi</label><br>
+  <label><input type="radio" value="27.529107,77.673172" data-zoom="18" data-name="GayatriPress" name="mapChoice">Gayatri Pariwar Press</label><br>
+  <label><input type="radio" value="27.5045,77.6763" data-zoom="14" data-name="Parikrama" name="mapChoice">Mathura Parikrama</label><br>
+  <br>
+  <div>
+    Mount Abu:
+    </div>
+  <label><input type="radio" value="24.598417,72.706788" data-zoom="17" data-name="PandavBhawan" name="mapChoice">Pandav Bhawan</label><br>
+  <label><input type="radio" value="24.602661,72.734563" data-zoom="17" data-name="GyanSarovar" name="mapChoice">Gyan Sarovar</label><br>
+  <label><input type="radio" value="24.53118,72.7931946516037" data-zoom="17" data-name="Shantivan" name="mapChoice">Shantivan</label><br>
+</form>
+
+      </div>
+    </div>
+  </div>
+
+  <div id="info-card" class="card">
+    <div class="card-header">
+      <span id="info-card-text">Location Info</span>
+      <button class="collapsed card-link close" data-toggle="collapse" data-target="#collapseTwo">
+        <i class="fa fa-arrows-alt-v"></i>
+      </button>
+    </div>
+    <div id="collapseTwo" class="collapse" data-parent="#accordion">
+      <div id="info-card-body" class="card-body">
+        
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<div class="map" id="mapdiv">
+</div>
+
+<div id="clear-map-button">
+  <button onclick= "$('.leaflet-marker-icon').remove(), $('.leaflet-interactive').remove()" >Clear Map</button>  
+  </div>
+
+
+
+
+
+  <div style="height:35px;"></div>
+<div style="position:fixed; color: white; height:35px; background-color:#757575; bottom:0px; text-align:center; width:100%">
+     <p>©2019 <a style="color: white; " target="_blank" href="https://nicktackes.com/">Nick Tackes</a></p>
+</div>
+
+  </body>
+  <script src="https://unpkg.com/leaflet@1.5.1/dist/leaflet.js"></script>
+<script src="http://code.jquery.com/jquery-3.4.1.min.js"></script>
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js" integrity="sha256-VazP97ZCwtekAsvgPBSUwPFKdrwD3unUfSGVYrahUqU=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/markdown-it/8.4.0/markdown-it.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/markdown-it-footnote/3.0.1/markdown-it-footnote.js"></script>
+<script src="https://npmcdn.com/@turf/turf/turf.min.js"></script>
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.min.js"></script>
+<script src="/map.js"></script>
+
+  
+
+</html>

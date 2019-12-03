@@ -1,0 +1,239 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "id": "DiamondHall",
+        "name": "Diamond Hall",
+        "description": "Dummy Description",
+        "img": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.79504537582397,
+          24.531800358691527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "id": "VIPhousing",
+        "name": "VIP Housing",
+        "description": "Dummy Description",
+        "img": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.7958071231842,
+          24.532913034162853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "id": "BabasRoom",
+        "name": "Baba's Room",
+        "description": "Dummy Description",
+        "img": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.79459476470947,
+          24.531204975660927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "id": "PrakashmaniGarden",
+        "name": "Prakashmani Garden",
+        "description": "Dummy Description",
+        "img": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.79460549354553,
+          24.53083407988663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "id": "bookstore",
+        "name": "Bookstore",
+        "description": "Dummy Description",
+        "img": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.79460549354553,
+          24.530565667787627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "id": "tapasyadham",
+        "name": "Tapasyadham",
+        "description": "Dummy Description",
+        "img": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.79632210731506,
+          24.530263093460672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "id": "TransportationDepartment",
+        "name": "Transportation Department",
+        "description": "Dummy Description",
+        "img": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.79591977596283,
+          24.52920407757385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "id": "RadioMadhuban",
+        "name": "Radio Madhuban",
+        "description": "Dummy Description",
+        "img": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.79539942741394,
+          24.52965794261914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "id": "VIPdining",
+        "name": "VIP Dining Hall",
+        "description": "Dummy Description",
+        "img": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.79525190591812,
+          24.529728706376215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "id": "EverHealthyHospital",
+        "name": "Ever Healthy Hospital",
+        "description": "Dummy Description",
+        "img": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.79493272304535,
+          24.530365578395006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "id": "MainDiningHall",
+        "name": "Main Dining Hall",
+        "description": "Dummy Description",
+        "img": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.79405564069748,
+          24.530214291081574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "id": "ResidentialUnits",
+        "name": "Residential Units",
+        "description": "Dummy Description",
+        "img": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.7931946516037,
+          24.53083407988663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "id": "ConstructionStore",
+        "name": "Construction Store",
+        "description": "Dummy Description",
+        "img": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.79510036110878,
+          24.533011856836403
+        ]
+      }
+    }
+  ]
+}

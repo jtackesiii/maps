@@ -1,0 +1,376 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "id": "GateThreeRoad",
+        "name": "Route to Gate Three"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.67046451568604,
+            27.509498955358875
+          ],
+          [
+            77.67021775245667,
+            27.508851880935335
+          ],
+          [
+            77.669198513031,
+            27.5078527144239
+          ],
+          [
+            77.66898393630981,
+            27.507671911895173
+          ],
+          [
+            77.669016122818,
+            27.506929666821826
+          ],
+          [
+            77.66897320747375,
+            27.506568058433746
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "id": "RouteInterCollege",
+        "name": "Route to Jawahar Vidyalaya Inter College"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.67066299915314,
+            27.509598870923305
+          ],
+          [
+            77.6707273721695,
+            27.510360129387298
+          ],
+          [
+            77.66988515853882,
+            27.51043625494399
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "id": "RoutePotraKund",
+        "name": "Route to Potra Kund"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.66803979873657,
+            27.509156387020468
+          ],
+          [
+            77.6675033569336,
+            27.507700459682624
+          ],
+          [
+            77.66760796308517,
+            27.507141397497417
+          ],
+          [
+            77.66732096672058,
+            27.50685353883888
+          ],
+          [
+            77.66721367835999,
+            27.505093064541324
+          ],
+          [
+            77.6675033569336,
+            27.504645804422214
+          ],
+          [
+            77.66836166381836,
+            27.504398383149827
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "id": "WestParikramaMarg",
+        "name": "Western edge of Mathura's Parikrama Marg"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.66709566116333,
+            27.513086343049622
+          ],
+          [
+            77.66722440719604,
+            27.512268010268134
+          ],
+          [
+            77.66679525375366,
+            27.512058668346203
+          ],
+          [
+            77.66619443893433,
+            27.50889946006669
+          ],
+          [
+            77.6657223701477,
+            27.507966905341576
+          ],
+          [
+            77.66555070877075,
+            27.50749110906936
+          ],
+          [
+            77.66755163669585,
+            27.507414981474874
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "id": "SingleGaugeLine",
+        "name": "Single Gauge Rail Line"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.67125844955443,
+            27.512991188387804
+          ],
+          [
+            77.67115116119385,
+            27.504579191057456
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": "PoliceThana",
+        "name": "Govind Nagar Police Thana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.67097145318985,
+          27.50958697621804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "id": "MathuraVrindavanRoad",
+        "name": "Mathura Vrindavan Road"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.67419815063477,
+            27.514532683774984
+          ],
+          [
+            77.67276048660278,
+            27.51192545055208
+          ],
+          [
+            77.67169833183289,
+            27.510402950019426
+          ],
+          [
+            77.67158031463622,
+            27.510231667390943
+          ],
+          [
+            77.67158031463622,
+            27.509984258679047
+          ],
+          [
+            77.67208456993102,
+            27.508318993258406
+          ],
+          [
+            77.6721704006195,
+            27.507690943754305
+          ],
+          [
+            77.67207384109497,
+            27.505645000054756
+          ],
+          [
+            77.67175197601318,
+            27.504750482485385
+          ],
+          [
+            77.67104387283325,
+            27.503970152709922
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "id": "GovindNagarMainRoad",
+        "name": "Govind Nagar's Main Road"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.67167687416077,
+            27.509356218680836
+          ],
+          [
+            77.67111897468567,
+            27.50934670289572
+          ],
+          [
+            77.67058253288269,
+            27.509546534210397
+          ],
+          [
+            77.67001390457153,
+            27.509565565745266
+          ],
+          [
+            77.6662802696228,
+            27.508956554997162
+          ],
+          [
+            77.66469240188597,
+            27.508842365106577
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": "InterCollege",
+        "name": "Jawahar Vidyalaya Inter College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.67065763473511,
+          27.511259359161706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": "RamLilaMaidan",
+        "name": "Ram Lila Maidan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.66675233840942,
+          27.51415206963842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": "BusParking",
+        "name": "Bus Parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.66821146011353,
+          27.50994619575091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": "HotelGreenLand",
+        "name": "Hotel Green Land"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.66947746276855,
+          27.509632176091298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": "GovardhanPujaMela",
+        "name": "Site of Govardhan Puja Mela"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.66728341579437,
+          27.50904695524315
+        ]
+      }
+    }
+  ]
+}
