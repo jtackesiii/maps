@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": "NewBSABKCenter",
+        "name": "New Brahma Kumaris Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.66854405403137,
+          27.49403473874295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": "BSABKCenter",
+        "name": "BSA College Brahma Kumaris Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.65943527221678,
+          27.489047660397873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": "BSACampus",
+        "name": "BSA College Campus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.67065763473511,
+          27.492435852729894
+        ]
+      }
+    }
+  ]
+}

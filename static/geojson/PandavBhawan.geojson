@@ -1,0 +1,149 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "id": "OmShantiBhawan",
+        "name": "Om Shanti Bhawan",
+        "description": "Dummy Description",
+        "img": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.70820617675781,
+          24.599392115382543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "id": "MeditationHall",
+        "name": "Meditation Hall",
+        "description": "Dummy Description",
+        "img": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.7089411020279,
+          24.59840440836556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "id": "DiningComplex",
+        "name": "Dining Complex",
+        "description": "Dummy Description",
+        "img": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.70882040262222,
+          24.597865434088696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "id": "ResidentialComplex",
+        "name": "Residential Complex",
+        "description": "Dummy Description",
+        "img": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.70834296941757,
+          24.597663013285654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "id": "BabasCottage",
+        "name": "Baba's Cottage",
+        "description": "Dummy Description",
+        "img": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.70920395851134,
+          24.59823613157809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "id": "BabasRoom",
+        "name": "Baba's Room",
+        "description": "Dummy Description",
+        "img": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.70874261856079,
+          24.598287346276496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "id": "BabasPillar",
+        "name": "Baba's Pillar",
+        "description": "Dummy Description",
+        "img": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.70828396081924,
+          24.598306856632266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "id": "HistoryHall",
+        "name": "History Hall",
+        "description": "Dummy Description",
+        "img": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.70847976207732,
+          24.59840440836556
+        ]
+      }
+    }
+  ]
+}
