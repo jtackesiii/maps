@@ -1,1 +1,1 @@
-![Diamond Hall at night](/img/shantivan-diamond-hall-night.JPG)
+![Diamond Hall at night](/img/Shantivan/shantivan-diamond-hall-night.JPG)

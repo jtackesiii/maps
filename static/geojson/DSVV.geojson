@@ -1,0 +1,1006 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "name": "Himalaya Mandir",
+        "id": "HimalayaMandir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.19169014692307,
+          29.992409911428705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "name": "Museum",
+        "id": "Museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.19192215800284,
+          29.992462179787577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "name": "Acupressure and Herb Garden",
+        "id": "AccuHerbGarden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1921461224556,
+          29.992379711919924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "name": "Dining Hall",
+        "id": "DiningHall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.19153189659119,
+          29.991915102934612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "name": "General Store",
+        "id": "GeneralStore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.19116175174713,
+          29.992709582979483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "name": "Shiva Temple",
+        "id": "ShivaTemple"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1908345222473,
+          29.991654920953035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "name": "Samadhi",
+        "id": "Samadhi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1903624534607,
+          29.991627044271706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "name": "Yagyashala",
+        "id": "Yagyashala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.19057703018188,
+          29.991585229235042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "name": "Shops",
+        "id": "Shops"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.19064408540726,
+          29.991273938964003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "name": "Gayatri Mata Mandir",
+        "id": "GayatriMandir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.191499710083,
+          29.99128323122503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "name": "Abroad Cell",
+        "id": "AbroadCell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.19226682186127,
+          29.991325046388916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "name": "Doctor-Sahib's Reception Room",
+        "id": "DrSahibReception"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.19244384765625,
+          29.990997493800492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "name": "Akhand Deep Shrine",
+        "id": "AkhandDeepShrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.19234997034073,
+          29.991016078373438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "name": "Reception Office",
+        "id": "ReceptionOffice"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.18827569484709,
+          29.99126929283316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "name": "Parking",
+        "id": "Parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.18898379802704,
+          29.99034935464271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "name": "Lopa Mudra Bhawan",
+        "id": "LopaMudraBhawan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.18948805332184,
+          29.989884736155123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "name": "Samskar Shala",
+        "id": "SamskarShala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.18992793560027,
+          29.990354000816605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "name": "Canteen",
+        "id": "Canteen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.18943440914154,
+          29.990581663071072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "name": "Head Administration",
+        "id": "HeadAdmin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.19225072860718,
+          29.99103233987191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "name": "Enquiries",
+        "id": "Enquiries"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.19023907184601,
+          29.991757135384272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "name": "Clinic",
+        "id": "clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.18865120410919,
+          29.99114384721825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#229d0d",
+        "fill-opacity": 0.5
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              78.18725109100342,
+              29.990586309234104
+            ],
+            [
+              78.190598487854,
+              29.989371330197553
+            ],
+            [
+              78.1908345222473,
+              29.98992190571415
+            ],
+            [
+              78.1902551651001,
+              29.990130984224372
+            ],
+            [
+              78.19058775901794,
+              29.99076518634515
+            ],
+            [
+              78.19103837013245,
+              29.9906722632108
+            ],
+            [
+              78.19107055664062,
+              29.991090416630403
+            ],
+            [
+              78.19246530532835,
+              29.99092315547391
+            ],
+            [
+              78.19237411022186,
+              29.991606136755564
+            ],
+            [
+              78.19222927093506,
+              29.991589875351103
+            ],
+            [
+              78.19221317768097,
+              29.991692089849312
+            ],
+            [
+              78.19201201200485,
+              29.991666536234614
+            ],
+            [
+              78.19197177886963,
+              29.991880257173058
+            ],
+            [
+              78.19233387708664,
+              29.991801273401588
+            ],
+            [
+              78.19220513105391,
+              29.992670091431496
+            ],
+            [
+              78.1912824511528,
+              29.992488894715915
+            ],
+            [
+              78.19132804870605,
+              29.993134696883264
+            ],
+            [
+              78.19064140319824,
+              29.993339122593145
+            ],
+            [
+              78.19023370742798,
+              29.992465664343847
+            ],
+            [
+              78.18989038467407,
+              29.99261433863116
+            ],
+            [
+              78.1898045539856,
+              29.992428495737233
+            ],
+            [
+              78.19028735160828,
+              29.992196191630555
+            ],
+            [
+              78.19010496139528,
+              29.991852380554985
+            ],
+            [
+              78.1886887550354,
+              29.99244475700434
+            ],
+            [
+              78.18857342004776,
+              29.992279821171582
+            ],
+            [
+              78.19010496139528,
+              29.99161078287063
+            ],
+            [
+              78.18989038467407,
+              29.991174047102973
+            ],
+            [
+              78.18867802619933,
+              29.991582906176937
+            ],
+            [
+              78.1885814666748,
+              29.99131343106736
+            ],
+            [
+              78.18800210952759,
+              29.991517860527807
+            ],
+            [
+              78.18776607513428,
+              29.99121121617927
+            ],
+            [
+              78.1886887550354,
+              29.99087669399153
+            ],
+            [
+              78.18853855133055,
+              29.990588632315518
+            ],
+            [
+              78.18751931190491,
+              29.990976586151785
+            ],
+            [
+              78.18725109100342,
+              29.990586309234104
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "name": "Water Treatment Facility",
+        "id": "WaterTreatment"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.18994402885437,
+          29.99002876811884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "name": "Workshop",
+        "id": "Workshop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.18991184234619,
+          29.989759288790708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "name": "Regional Offices",
+        "id": "RegionalOffices"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.19092035293579,
+          29.990892955512855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "name": "Bookstore",
+        "id": "Bookstore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.18842053413391,
+          29.991181016305845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "name": "Gate-5",
+        "id": "Gate-5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.18743348121643,
+          29.99073498633603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "name": "Gate-4",
+        "id": "Gate-4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.18790555000305,
+          29.99133898477295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "name": "Gate-2",
+        "id": "Gate-2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.18866729736328,
+          29.992342543281122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "name": "Gate-3",
+        "id": "Gate-3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.19227486848831,
+          29.992103269835678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "name": "Gate-1",
+        "id": "Gate-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.19242775440216,
+          29.99111829346244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "name": "Bal Samskar Shala",
+        "id": "BalSamskarShala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.19008886814116,
+          29.991789658135787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "name": "Bharatiya Sanskriti Gyan Pariksha Cell",
+        "id": "BsgpCell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.19003522396088,
+          29.99170602818182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "name": "National Flag",
+        "id": "NationalFlag"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.18768829107285,
+          29.990807001727223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "name": "Sadhana Kaksh",
+        "id": "SadhanaKaksh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.19118857383728,
+          29.991311108002893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              78.19027662277222,
+              30.003687623988586
+            ],
+            [
+              78.19053411483765,
+              29.998335806475005
+            ],
+            [
+              78.19342017173767,
+              29.996068630085176
+            ],
+            [
+              78.19537281990051,
+              29.997592475660184
+            ],
+            [
+              78.19293737411499,
+              30.000296314792617
+            ],
+            [
+              78.19217562675476,
+              30.00240544400104
+            ],
+            [
+              78.19027662277222,
+              30.003687623988586
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "name": "Shiva Temple",
+        "id": "ShivaTemple"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.19237947463989,
+          29.998168557527087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "name": "Mrtyunjaya Auditorium",
+        "id": "MrtyunjayaAuditorium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.19175720214844,
+          29.997926975215808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "name": "Shriram Hall",
+        "id": "ShriramHall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.19259405136108,
+          29.99869817822865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "name": "Library",
+        "id": "Library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.19337189197539,
+          29.998716761359834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "name": "Granary",
+        "id": "Granary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.19251894950867,
+          30.001053562375713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "name": "Cow Shelter",
+        "id": "CowShelter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.19093108177185,
+          30.002377570339025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "name": "Cow-based Product Manufacturing",
+        "id": "CowProductManufacturing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.19117248058319,
+          30.00294897884488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "name": "Paper Mill",
+        "id": "PaperMill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.19182157516478,
+          30.00252622977918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "name": "Ayurvedic Manufacturing",
+        "id": "AyurvedicManufacturing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.19191813468933,
+          30.002219619439856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "name": "Screen Printing",
+        "id": "ScreenPrinting"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.19178938865662,
+          30.002108124536125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "name": "Jute Manufacturing",
+        "id": "JuteManufacturing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.19153726100922,
+          30.002080250790627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "name": "Cotton Looms",
+        "id": "CottonLooms"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.19147288799286,
+          30.00232182299156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "name": "Cow Dung Gas Plant",
+        "id": "CowDungGasPlant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.19144606590271,
+          30.002777092079377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "name": "Acupressure Garden",
+        "id": "AccupressureGarden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.19083988666534,
+          29.99847053458923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "name": "Juice Stall",
+        "id": "JuiceStall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.19105446338654,
+          29.998112807815122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "name": "Doctor-sahib's Office",
+        "id": "DoctorSahibOffice"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.19119930267334,
+          29.999097714782373
+        ]
+      }
+    }
+  ]
+}

@@ -1,1 +1,1 @@
-![Gayatri Tapobhumi](/img/tapobhumi-meditation.JPG)
+![Gayatri Tapobhumi](/img/Tapobhumi/tapobhumi-meditation.JPG)

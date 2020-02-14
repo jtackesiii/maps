@@ -4,12 +4,8 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
         "id": "OmShantiBhawan",
-        "name": "Om Shanti Bhawan",
-        "description": "Dummy Description",
-        "img": ""
+        "name": "Om Shanti Bhawan"
       },
       "geometry": {
         "type": "Point",
@@ -22,12 +18,8 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
         "id": "MeditationHall",
-        "name": "Meditation Hall",
-        "description": "Dummy Description",
-        "img": ""
+        "name": "Meditation Hall"
       },
       "geometry": {
         "type": "Point",
@@ -40,12 +32,8 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
         "id": "DiningComplex",
-        "name": "Dining Complex",
-        "description": "Dummy Description",
-        "img": ""
+        "name": "Dining Complex"
       },
       "geometry": {
         "type": "Point",
@@ -58,12 +46,8 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
         "id": "ResidentialComplex",
-        "name": "Residential Complex",
-        "description": "Dummy Description",
-        "img": ""
+        "name": "Residential Complex"
       },
       "geometry": {
         "type": "Point",
@@ -76,12 +60,8 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
         "id": "BabasCottage",
-        "name": "Baba's Cottage",
-        "description": "Dummy Description",
-        "img": ""
+        "name": "Baba's Cottage"
       },
       "geometry": {
         "type": "Point",
@@ -94,12 +74,8 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
         "id": "BabasRoom",
-        "name": "Baba's Room",
-        "description": "Dummy Description",
-        "img": ""
+        "name": "Baba's Room"
       },
       "geometry": {
         "type": "Point",
@@ -112,12 +88,8 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
         "id": "BabasPillar",
-        "name": "Baba's Pillar",
-        "description": "Dummy Description",
-        "img": ""
+        "name": "Baba's Pillar"
       },
       "geometry": {
         "type": "Point",
@@ -130,12 +102,8 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
         "id": "HistoryHall",
-        "name": "History Hall",
-        "description": "Dummy Description",
-        "img": ""
+        "name": "History Hall"
       },
       "geometry": {
         "type": "Point",

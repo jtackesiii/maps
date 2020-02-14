@@ -4,8 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
         "id": "HarmonyHouse",
         "name": "Harmony House"
       },
@@ -20,8 +18,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
         "id": "HarmonyHall",
         "name": "Harmony Hall"
       },
@@ -36,8 +32,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
         "id": "ArtGallery",
         "name": "Art Gallery"
       },
@@ -52,8 +46,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
         "id": "BabasRoom",
         "name": "Baba's Room"
       },
@@ -68,8 +60,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
         "id": "TemporaryLiteratureDepartment",
         "name": "Temporary Literature Department"
       },
@@ -84,8 +74,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
         "id": "DadisCottage",
         "name": "DadisCottage"
       },
@@ -100,8 +88,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
         "id": "VIPhousing",
         "name": "VIP Housing"
       },
@@ -116,8 +102,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
         "id": "MeditationHut",
         "name": "Meditation Hut"
       },
@@ -132,8 +116,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
         "id": "WingOffices",
         "name": "Wing Offices"
       },
@@ -148,8 +130,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
         "id": "ReceptionOffice",
         "name": "Reception Office"
       },
@@ -164,8 +144,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
         "id": "DiningHall",
         "name": "Dining Hall"
       },
@@ -180,8 +158,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
         "id": "DadiJankiPark",
         "name": "Dadi Janki Park"
       },
@@ -196,8 +172,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
         "id": "Dispensary",
         "name": "Dispensary"
       },
@@ -212,8 +186,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
         "id": "ResidentialUnits",
         "name": "Residential Units"
       },

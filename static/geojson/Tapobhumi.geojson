@@ -4,12 +4,8 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
         "id": "GayatriTapobhumi",
-        "name": "Gayatri Tapobhumi",
-        "description": "Dummy Description",
-        "img": ""
+        "name": "Gayatri Tapobhumi"
       },
       "geometry": {
         "type": "Point",
@@ -22,12 +18,8 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
         "id": "Bookstore",
-        "name": "Bookstore",
-        "description": "Dummy Description",
-        "img": ""
+        "name": "Bookstore"
       },
       "geometry": {
         "type": "Point",
@@ -40,12 +32,8 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
         "id": "Vidyalaya",
-        "name": "Vidyalaya",
-        "description": "Dummy Description",
-        "img": ""
+        "name": "Vidyalaya"
       },
       "geometry": {
         "type": "Point",
@@ -58,12 +46,8 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
         "id": "ShivMandir",
-        "name": "Shiv Mandir",
-        "description": "Dummy Description",
-        "img": ""
+        "name": "Shiv Mandir"
       },
       "geometry": {
         "type": "Point",
@@ -76,12 +60,8 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
         "id": "Yagyashala",
-        "name": "Yagyashala",
-        "description": "Dummy Description",
-        "img": ""
+        "name": "Yagyashala"
       },
       "geometry": {
         "type": "Point",
@@ -94,12 +74,8 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
         "id": "Bhojanalaya",
-        "name": "Bhojanalaya",
-        "description": "Dummy Description",
-        "img": ""
+        "name": "Bhojanalaya"
       },
       "geometry": {
         "type": "Point",
@@ -112,12 +88,8 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
         "id": "Clinic",
-        "name": "Clinic",
-        "description": "Dummy Description",
-        "img": ""
+        "name": "Clinic"
       },
       "geometry": {
         "type": "Point",
@@ -130,12 +102,8 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
         "id": "TapobhumiLodgings",
-        "name": "Gayatri Tapobhumi Lodgings",
-        "description": "Dummy Description",
-        "img": ""
+        "name": "Gayatri Tapobhumi Lodgings"
       },
       "geometry": {
         "type": "Point",
@@ -148,12 +116,8 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
         "id": "AdminOffices",
-        "name": "Administrative Offices",
-        "description": "Dummy Description",
-        "img": ""
+        "name": "Administrative Offices"
       },
       "geometry": {
         "type": "Point",

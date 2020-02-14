@@ -4,12 +4,8 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
         "id": "DiamondHall",
-        "name": "Diamond Hall",
-        "description": "Dummy Description",
-        "img": ""
+        "name": "Diamond Hall"
       },
       "geometry": {
         "type": "Point",
@@ -22,12 +18,8 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
         "id": "VIPhousing",
-        "name": "VIP Housing",
-        "description": "Dummy Description",
-        "img": ""
+        "name": "VIP Housing"
       },
       "geometry": {
         "type": "Point",
@@ -40,12 +32,8 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
         "id": "BabasRoom",
-        "name": "Baba's Room",
-        "description": "Dummy Description",
-        "img": ""
+        "name": "Baba's Room"
       },
       "geometry": {
         "type": "Point",
@@ -58,12 +46,8 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
         "id": "PrakashmaniGarden",
-        "name": "Prakashmani Garden",
-        "description": "Dummy Description",
-        "img": ""
+        "name": "Prakashmani Garden"
       },
       "geometry": {
         "type": "Point",
@@ -76,12 +60,8 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
         "id": "bookstore",
-        "name": "Bookstore",
-        "description": "Dummy Description",
-        "img": ""
+        "name": "Bookstore"
       },
       "geometry": {
         "type": "Point",
@@ -94,12 +74,8 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
         "id": "tapasyadham",
-        "name": "Tapasyadham",
-        "description": "Dummy Description",
-        "img": ""
+        "name": "Tapasyadham"
       },
       "geometry": {
         "type": "Point",
@@ -112,12 +88,8 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
         "id": "TransportationDepartment",
-        "name": "Transportation Department",
-        "description": "Dummy Description",
-        "img": ""
+        "name": "Transportation Department"
       },
       "geometry": {
         "type": "Point",
@@ -130,12 +102,8 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
         "id": "RadioMadhuban",
-        "name": "Radio Madhuban",
-        "description": "Dummy Description",
-        "img": ""
+        "name": "Radio Madhuban"
       },
       "geometry": {
         "type": "Point",
@@ -148,12 +116,8 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
         "id": "VIPdining",
-        "name": "VIP Dining Hall",
-        "description": "Dummy Description",
-        "img": ""
+        "name": "VIP Dining Hall"
       },
       "geometry": {
         "type": "Point",
@@ -166,12 +130,8 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
         "id": "EverHealthyHospital",
-        "name": "Ever Healthy Hospital",
-        "description": "Dummy Description",
-        "img": ""
+        "name": "Ever Healthy Hospital"
       },
       "geometry": {
         "type": "Point",
@@ -184,12 +144,8 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
         "id": "MainDiningHall",
-        "name": "Main Dining Hall",
-        "description": "Dummy Description",
-        "img": ""
+        "name": "Main Dining Hall"
       },
       "geometry": {
         "type": "Point",
@@ -202,12 +158,8 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
         "id": "ResidentialUnits",
-        "name": "Residential Units",
-        "description": "Dummy Description",
-        "img": ""
+        "name": "Residential Units"
       },
       "geometry": {
         "type": "Point",
@@ -220,12 +172,8 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
         "id": "ConstructionStore",
-        "name": "Construction Store",
-        "description": "Dummy Description",
-        "img": ""
+        "name": "Construction Store"
       },
       "geometry": {
         "type": "Point",

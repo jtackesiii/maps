@@ -4,9 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
         "id": "GateThreeRoad",
         "name": "Route to Gate Three"
       },
@@ -43,9 +40,6 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
         "id": "RouteInterCollege",
         "name": "Route to Jawahar Vidyalaya Inter College"
       },
@@ -70,9 +64,6 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
         "id": "RoutePotraKund",
         "name": "Route to Potra Kund"
       },
@@ -113,9 +104,6 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
         "id": "WestParikramaMarg",
         "name": "Western edge of Mathura's Parikrama Marg"
       },
@@ -156,9 +144,6 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
         "id": "SingleGaugeLine",
         "name": "Single Gauge Rail Line"
       },
@@ -179,9 +164,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "id": "PoliceThana",
         "name": "Govind Nagar Police Thana"
       },
@@ -196,9 +178,6 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
         "id": "MathuraVrindavanRoad",
         "name": "Mathura Vrindavan Road"
       },
@@ -251,9 +230,6 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
         "id": "GovindNagarMainRoad",
         "name": "Govind Nagar's Main Road"
       },
@@ -290,9 +266,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "id": "InterCollege",
         "name": "Jawahar Vidyalaya Inter College"
       },
@@ -307,9 +280,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "id": "RamLilaMaidan",
         "name": "Ram Lila Maidan"
       },
@@ -324,9 +294,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "id": "BusParking",
         "name": "Bus Parking"
       },
@@ -341,9 +308,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "id": "HotelGreenLand",
         "name": "Hotel Green Land"
       },
@@ -358,9 +322,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "id": "GovardhanPujaMela",
         "name": "Site of Govardhan Puja Mela"
       },

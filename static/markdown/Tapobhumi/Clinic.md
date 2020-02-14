@@ -1,6 +1,6 @@
 ### Medicial Clinic
 
-![Gayatri Tapobhumi Chikitsalaya](/img/tapobhumi-chikitsalaya.JPG)
+![Gayatri Tapobhumi Chikitsalaya](/img/Tapobhumi/tapobhumi-chikitsalaya.JPG)
 
 Open since 2009, the Gayatri Tapobhumi's medical clinic provides consultations and treatments according to "every kind of '-pathy,'" from Ayurveda, allopathy, homeopathy, physiotherapy, the yoga, naturopathy, and magnetic therapy (as well as dental, eye, and ENT care). There is a resident doctor for each of these medical specialties except for an eye doctor (who left Mathura a few months back) and an ENT doctor (which there had never been since the clinic's opening). There used to have been a pathology ward as well, but because of a botched treatment, the ward had since closed at the request of the Tapobhumi administration. With its own streetside entrance, the Tapobhumi Chikitsalaya offers its services to the local community on a "no profit, no loss" model. According to the in-charge of the clinic, an average of 200-250 patients visit every day.
 

@@ -6,28 +6,28 @@ The road bends west after a stretch of cremation grounds at Dhruv Ghat and then 
 
 On Akshay Navami and on all days when performing a _parikrama_ of Mathura is called for, a range of items are displayed along the roadsides in order to tempt pilgrims to make a purchase. Balloon animals, plastic toys, shoes, winter clothing, handbacks, backpacks, snacks of all kinds, and more are all for sale on Parikrama Marg. The attractions do not end there: regularly stationed throughout the loop are water stations, often accompanied by speaker systems blaring a mix of dance and devotional music. On one such occasion, a live band had set up a stage on a storefront ledge, motivating passersby with drums, cymbals, and harmonium.
 
-<div class="center-element"><audio controls><source src="/img/ParikramaAudio.mp3" type="audio/mpeg"></audio></div>
+<div class="center-element"><audio controls><source src="/img/Parikrama/ParikramaAudio.mp3" type="audio/mpeg"></audio></div>
 <br>
 
 At other locations along the road, fairgrounds had been set up, featuring inflatable slides, trampolines, Ferris wheels, merry-go-rounds, and even a swinging Viking ship. Of course, these attractions were supplemented with vendors selling appropriate treats: ice-cream, fried foods, and chai were in abundance.
 
-<a class="gallery-link" href="/img/parikrama-market-1.JPG" data-toggle="lightbox" data-gallery="parikrama-market">
-    <img src="/img/parikrama-market-1.JPG" class="img-fluid">
+<a class="gallery-link" href="/img/Parikrama/parikrama-market-1.JPG" data-toggle="lightbox" data-gallery="parikrama-market">
+    <img src="/img/Parikrama/parikrama-market-1.JPG" class="img-fluid">
 </a>
-<div data-toggle="lightbox" data-gallery="parikrama-market" data-remote="/img/parikrama-market-2.JPG"></div>
-<div data-toggle="lightbox" data-gallery="parikrama-market" data-remote="/img/parikrama-market-3.JPG"></div>
-<div data-toggle="lightbox" data-gallery="parikrama-market" data-remote="/img/parikrama-market-4.JPG"></div>
-<div data-toggle="lightbox" data-gallery="parikrama-market" data-remote="/img/parikrama-market-5.JPG"></div>
-<div data-toggle="lightbox" data-gallery="parikrama-market" data-remote="/img/parikrama-market-6.JPG"></div>
-<div data-toggle="lightbox" data-gallery="parikrama-market" data-remote="/img/parikrama-market-7.JPG"></div>
-<div data-toggle="lightbox" data-gallery="parikrama-market" data-remote="/img/parikrama-fair-3.JPG"></div>
+<div data-toggle="lightbox" data-gallery="parikrama-market" data-remote="/img/Parikrama/parikrama-market-2.JPG"></div>
+<div data-toggle="lightbox" data-gallery="parikrama-market" data-remote="/img/Parikrama/parikrama-market-3.JPG"></div>
+<div data-toggle="lightbox" data-gallery="parikrama-market" data-remote="/img/Parikrama/parikrama-market-4.JPG"></div>
+<div data-toggle="lightbox" data-gallery="parikrama-market" data-remote="/img/Parikrama/parikrama-market-5.JPG"></div>
+<div data-toggle="lightbox" data-gallery="parikrama-market" data-remote="/img/Parikrama/parikrama-market-6.JPG"></div>
+<div data-toggle="lightbox" data-gallery="parikrama-market" data-remote="/img/Parikrama/parikrama-market-7.JPG"></div>
+<div data-toggle="lightbox" data-gallery="parikrama-market" data-remote="/img/Parikrama/parikrama-fair-3.JPG"></div>
 <br>
 
 Yet this is not to say that Parikrama Marg is only fun and games, for several prominent temples adjoin the road. In the order that most pilgrims visit these temples on their circumambulation of the city, these include the Yamuna-Dharamraja Temple, Dhruv Tila, Rangeshwar Mahadev Temple, Kankali Devi Temple, Bhuteshwar Temple, Krishna Janmbhumi Temple, Mahavidya Temple, Chamunda Devi Temple, and Dwarkadish Temple.
 
 Unique to the procession on Parikrama Marg during Akshay Navami is the presence of Amla, or Indian Gooseberry. Akshay Navami, also called Amla Navami, is a day when people, especially women, perform devotional rites to the Amla tree. According to Tracy Pintchman, this devotion includes picnicking underneath Amla trees (at least in Benaras).^[Ibid, 74.] Although I did not see evidence of snacking underneath Amla trees while circling the city, I caught one instance of Amla _pūjā_ taking place on the side of the road, as well as one woman carrying a small Amla plant with her on her circumambulation.
 
-<a class="gallery-link" href="/img/parikrama-amla-2.JPG" data-toggle="lightbox" data-gallery="amla">
-    <img src="/img/parikrama-amla-2.JPG" class="img-fluid">
+<a class="gallery-link" href="/img/Parikrama/parikrama-amla-2.JPG" data-toggle="lightbox" data-gallery="amla">
+    <img src="/img/Parikrama/parikrama-amla-2.JPG" class="img-fluid">
 </a>
-<div data-toggle="lightbox" data-gallery="amla" data-remote="/img/parikrama-amla-3.JPG"></div>
+<div data-toggle="lightbox" data-gallery="amla" data-remote="/img/Parikrama/parikrama-amla-3.JPG"></div>

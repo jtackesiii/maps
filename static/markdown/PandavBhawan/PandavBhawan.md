@@ -1,1 +1,1 @@
-![Pandav Bhawan](/img/abu-pandav-bhavan.jpg)
+![Pandav Bhawan](/img/PandavBhawan/abu-pandav-bhavan.jpg)

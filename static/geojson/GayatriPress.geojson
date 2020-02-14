@@ -4,12 +4,8 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
         "id": "BirlaMandir",
-        "name": "Birla Mandir",
-        "description": "Dummy Description",
-        "img": ""
+        "name": "Birla Mandir"
       },
       "geometry": {
         "type": "Point",
@@ -22,12 +18,8 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
         "id": "Press",
-        "name": "Gayatri Pariwar Press",
-        "description": "Dummy Description",
-        "img": ""
+        "name": "Gayatri Pariwar Press"
       },
       "geometry": {
         "type": "Point",
@@ -40,12 +32,8 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
         "id": "PressLodgings",
-        "name": "Press Lodgings",
-        "description": "Dummy Description",
-        "img": ""
+        "name": "Press Lodgings"
       },
       "geometry": {
         "type": "Point",
@@ -58,12 +46,8 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
         "id": "PressNewConstruction",
-        "name": "New Construction",
-        "description": "Dummy Description",
-        "img": ""
+        "name": "New Construction"
       },
       "geometry": {
         "type": "Point",
@@ -76,12 +60,8 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
         "id": "LaborTenements",
-        "name": "Laborer's Tenements",
-        "description": "Dummy Description",
-        "img": ""
+        "name": "Laborer's Tenements"
       },
       "geometry": {
         "type": "Point",
@@ -94,9 +74,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "id": "AkhandJyotiPress",
         "name": "Akhand Jyoti Press"
       },

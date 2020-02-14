@@ -4,9 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "id": "NewBSABKCenter",
         "name": "New Brahma Kumaris Center"
       },
@@ -21,9 +18,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "id": "BSABKCenter",
         "name": "BSA College Brahma Kumaris Center"
       },
@@ -38,9 +32,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "id": "BSACampus",
         "name": "BSA College Campus"
       },

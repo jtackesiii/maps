@@ -4,9 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "id": "KankaliDevi",
         "name": "Kankali Devi Mandir"
       },
@@ -21,10 +18,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "id": "RangeshwarMahadev",
+       "id": "RangeshwarMahadev",
         "name": "Shri Rangeshwar Mahadev Sirsana Bagichi"
       },
       "geometry": {
@@ -38,9 +32,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "id": "BhuteshwarMahadev",
         "name": "Bhuteshwar Mahadev Mandir"
       },
@@ -55,9 +46,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "id": "BirthShrine",
         "name": "Krishna Janmsthan Mandir"
       },
@@ -72,9 +60,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "id": "MahavidyaDevi",
         "name": "Mahavidya Devi Mandir"
       },
@@ -89,9 +74,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "id": "DwarkadishMandir",
         "name": "Dwarkadish Mandir"
       },
@@ -106,9 +88,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "id": "DhruvTila",
         "name": "Dhruv Tila "
       },
@@ -123,9 +102,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "id": "YamunaDharamraj",
         "name": "Yamuna-Dharamraj Mandir"
       },
@@ -140,9 +116,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "id": "ChamundaDevi",
         "name": "Chamunda Devi Mandir"
       },
@@ -157,9 +130,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "id": "MokshaDham",
         "name": "Moksha Dham"
       },
@@ -174,9 +144,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "id": "GovernmentMuseum",
         "name": "Government Museum"
       },
@@ -191,9 +158,6 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#00ff00",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
         "name": "Mathura Parikrama",
         "id": "MathuraParikrama",
         "distance": "11.02km",

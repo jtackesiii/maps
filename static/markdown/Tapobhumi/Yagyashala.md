@@ -1,1 +1,1 @@
-![Yagyashala](/img/tapobhumi-yagyashala.JPG)
+![Yagyashala](/img/Tapobhumi/tapobhumi-yagyashala.JPG)
