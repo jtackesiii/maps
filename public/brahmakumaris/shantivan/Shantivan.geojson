@@ -1,0 +1,187 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "DiamondHall",
+        "name": "Diamond Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.79504537582397,
+          24.531800358691527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "VIPhousing",
+        "name": "VIP Housing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.7958071231842,
+          24.532913034162853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BabasRoom",
+        "name": "Baba's Room"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.79459476470947,
+          24.531204975660927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "PrakashmaniGarden",
+        "name": "Prakashmani Garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.79460549354553,
+          24.53083407988663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bookstore",
+        "name": "Bookstore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.79460549354553,
+          24.530565667787627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "tapasyadham",
+        "name": "Tapasyadham"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.79632210731506,
+          24.530263093460672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TransportationDepartment",
+        "name": "Transportation Department"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.79591977596283,
+          24.52920407757385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "RadioMadhuban",
+        "name": "Radio Madhuban"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.79539942741394,
+          24.52965794261914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "VIPdining",
+        "name": "VIP Dining Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.79525190591812,
+          24.529728706376215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EverHealthyHospital",
+        "name": "Ever Healthy Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.79493272304535,
+          24.530365578395006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "MainDiningHall",
+        "name": "Main Dining Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.79405564069748,
+          24.530214291081574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ResidentialUnits",
+        "name": "Residential Units"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.7931946516037,
+          24.53083407988663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ConstructionStore",
+        "name": "Construction Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.79510036110878,
+          24.533011856836403
+        ]
+      }
+    }
+  ]
+}

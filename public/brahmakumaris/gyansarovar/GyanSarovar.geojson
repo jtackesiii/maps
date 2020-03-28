@@ -1,0 +1,201 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HarmonyHouse",
+        "name": "Harmony House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.73533403873444,
+          24.603464800243668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HarmonyHall",
+        "name": "Harmony Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.73481905460358,
+          24.603011202381463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ArtGallery",
+        "name": "Art Gallery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.73441135883331,
+          24.60270880289316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BabasRoom",
+        "name": "Baba's Room"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.73473858833313,
+          24.60245029952537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TemporaryLiteratureDepartment",
+        "name": "Temporary Literature Department"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.73475468158722,
+          24.602699048058774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "DadisCottage",
+        "name": "DadisCottage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.7345883846283,
+          24.602074737077242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "VIPhousing",
+        "name": "VIP Housing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.73391246795654,
+          24.602182040748858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "MeditationHut",
+        "name": "Meditation Hut"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.73397147655487,
+          24.602742944807456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WingOffices",
+        "name": "Wing Offices"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.7355432510376,
+          24.603020957191497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ReceptionOffice",
+        "name": "Reception Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.73544669151306,
+          24.602547848028767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "DiningHall",
+        "name": "Dining Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.73640155792236,
+          24.602557602874935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "DadiJankiPark",
+        "name": "Dadi Janki Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.73596704006195,
+          24.601884516705958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "Dispensary",
+        "name": "Dispensary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.73790895938872,
+          24.60245029952537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ResidentialUnits",
+        "name": "Residential Units"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.73830592632294,
+          24.602299099194788
+        ]
+      }
+    }
+  ]
+}

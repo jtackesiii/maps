@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "OmShantiBhawan",
+        "name": "Om Shanti Bhawan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.70820617675781,
+          24.599392115382543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "MeditationHall",
+        "name": "Meditation Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.7089411020279,
+          24.59840440836556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "DiningComplex",
+        "name": "Dining Complex"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.70882040262222,
+          24.597865434088696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ResidentialComplex",
+        "name": "Residential Complex"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.70834296941757,
+          24.597663013285654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BabasCottage",
+        "name": "Baba's Cottage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.70920395851134,
+          24.59823613157809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BabasRoom",
+        "name": "Baba's Room"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.70874261856079,
+          24.598287346276496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BabasPillar",
+        "name": "Baba's Pillar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.70828396081924,
+          24.598306856632266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HistoryHall",
+        "name": "History Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.70847976207732,
+          24.59840440836556
+        ]
+      }
+    }
+  ]
+}
