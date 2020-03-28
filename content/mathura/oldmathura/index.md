@@ -25,4 +25,4 @@ Shriram Sharma lived at this Giya Mandi residence until 1970, after which he and
 
 I have yet to inquire as to whether the upper rooms of the home are still the haunt of ghosts, but I know that the private quarters of Shriram Sharma and his wife have been kept largely intact: They serve largely as a museum exhibit to visitors curious about the history of the magazine. A wooden printing press stands in the corner of the room, allegedly the very same which was used to print the very first Mathura-based _Akhaṇḍ Jyoti_ issues.
 
-{{< gallery dir="/img/oldmathura1" />}}
+{{< gallery dir="/img/oldmathura" />}}
