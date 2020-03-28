@@ -1,6 +1,5 @@
 baseurl = "https://maps.nicktackes.com"
 languageCode = "en-US"
 title = "Maps"
-theme = "aether"
 
 FootnoteReturnLinkContents = "↩"
