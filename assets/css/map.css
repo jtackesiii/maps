@@ -1,0 +1,34 @@
+.leaflet-control-scale-line {
+  background: rgba(255, 255, 255, 0.8);
+}
+
+#mapdiv {
+  float: right;
+  height: calc(100vh - 35px);
+  width: 59vw;
+}
+
+/* L.Marker Size */
+.leaflet-div-icon {
+  background: none;
+  border: none;
+  font-size: 250%;
+}
+
+/* Map Popups */
+
+.leaflet-popup-close-button {
+  display: none;
+}
+
+.leaflet-popup-content-wrapper .leaflet-popup-content {
+  text-align: center;
+}
+
+.leaflet-popup-content-wrapper {
+  background: #ecedef;
+}
+
+.leaflet-popup-tip {
+  display: none;
+}

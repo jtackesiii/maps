@@ -1,3 +1,6 @@
-baseURL = "https://maps.nicktackes.com"
-languageCode = "en-us"
-title = "Maps | Nick Tackes"
+baseurl = "https://maps.nicktackes.com"
+languageCode = "en-US"
+title = "Maps"
+theme = "aether"
+
+FootnoteReturnLinkContents = "↩"

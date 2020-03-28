@@ -1,5 +1,2 @@
-# maps
-
-ToDo:
- - figure out a way to enable markdown shortcodes to render when called into the map info card
- - once this is done, enable shortcode-based lightbox galleries for easier data organization.
+# Maps
+A second attempt at fieldwork maps using Hugo's aether theme.

@@ -1,40 +1,28 @@
-{{ define "main" }}
-
-<div id="accordion">
-
-  <div id="maps-card" class="card">
-    <div class="card-header">
-      <span id="maps-card-text">Maps</span>
-      <button class="card-link close" data-toggle="collapse" data-target="#collapseOne">
-        <i class="fa fa-arrows-alt-v"></i>
-      </button>
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}" dir="ltr">
+  {{ partial "head.html" . }}
+  <body class="single-body">
+    <div class="invisible">
+      <div id="geojson">{{ .Params.geojson }}</div>
+      <div id="coords">{{ .Params.coords }}</div>
+      <div id="zoom">{{ .Params.zoom }}</div>
     </div>
-    <div id="collapseOne" class="collapse show" data-parent="#accordion">
-      <div id="button-card-body" class="card-body">
-        {{ partial "maps-buttons" . }}
+    <div id="text-box">
+      <article class="post {{ if ne .Params.dropcap false }}dropcase{{ end }}">
+        <header class="post-header">
+        	<h1 class="post-title">
+            {{ .Title }}
+            <a class="btn back-button" href="{{ .Site.BaseURL }}"><i class="fas fa-arrow-left fa-2x"></i></a>
+          </h1>
+          <p class="post-date">{{ .Parent.Title }}</p>
+        </header>
+        {{ .Content }}
+      </article>
+    <div id="map-box">
+      <div id="mapdiv">
       </div>
     </div>
-  </div>
-
-  <div id="info-card" class="card">
-    <div class="card-header">
-      <span id="info-card-text">Location Info</span>
-      <button class="collapsed card-link close" data-toggle="collapse" data-target="#collapseTwo">
-        <i class="fa fa-arrows-alt-v"></i>
-      </button>
-    </div>
-    <div id="collapseTwo" class="collapse" data-parent="#accordion">
-      <div id="info-card-body" class="card-body">
-        <!-- Get Content -->
-      </div>
-    </div>
-  </div>
-
-</div>
-
-<div class="map" id="mapdiv">
-</div>
-
-{{ .Content }}
-
-{{end}}
+    {{ partial "footer.html" . }}
+    {{ partial "scripts.html" . }}
+  </body>
+</html>

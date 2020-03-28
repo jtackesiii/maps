@@ -1,16 +1,39 @@
-{{ define "main" }}
-  {{.Content}}
-    {{ range .Pages }}
-     <div style="border: 1px solid black; margin:10px; padding:10px; ">
-          <div style="font-size:20px;">
-               <a href="{{.URL}}">{{.Title}}</a>
-          </div>
-          <div style="color:grey; font-size:16px;">{{ dateFormat "Monday, Jan 2, 2006" .Date }}</div>
-          <div style="color:grey; font-size:16px;">{{ if .Params.tags }}<strong>Tags:</strong> {{range .Params.tags}}<a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> {{end}}{{end}}</div>
-          <div style="color:grey; font-size:16px;">{{ if .Params.categories }}<strong>Categories:</strong> {{range .Params.categories}}<a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> {{end}}{{end}}</div>
-          <div style="color:grey; font-size:16px;">{{ if .Params.moods }}<strong>Moods:</strong> {{range .Params.moods}}<a href="{{ "/moods/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> {{end}}{{end}}</div>
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}" dir="ltr">
+  {{ partial "head.html" . }}
+  <body class="list-body">
+    <main>
+      <button class="btn nick-button" onclick="window.location.href = 'https://nicktackes.com'">Nick Tackes</button>
+      <header class="list-header">
+        <p class="list-header-subtext">{{ .Description }}</p>
+        <h1 class="list-header-title">{{ .Title }}</h1>
+      </header>
+      <section class="list-header-content">
+        <div class="container">
+          {{ .Content }}
+        </div>
+      </section>
 
-          <p style="font-size:18px;">{{.Summary}}</p>
-     </div>
-  {{ end }}
-{{end}}
+      <div id="responsive" class="row">
+        {{if .IsHome }}{{ range .Sections.ByTitle }}
+          {{ .Render "li" }}
+        {{ end }}{{ else }}
+        {{ range .Pages.ByTitle }}
+          {{ .Render "li" }}
+        {{ end }}{{ end }}
+      </div>
+      {{ if not .IsHome }}
+      <a class="btn list-back-button" href="{{ .Site.BaseURL }}"><i class="fas fa-arrow-left fa-3x"></i></a>
+      {{ end }}
+    </main>
+    {{ partial "footer.html" . }}
+    {{ partial "scripts.html" . }}
+    <!-- Load PhotoSwipe js if the load-photoswipe shortcode has been used -->
+    {{ if ($.Scratch.Get "photoswipeloaded") }}
+      <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+      <script src="/js/load-photoswipe.js"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.js" integrity="sha256-UplRCs9v4KXVJvVY+p+RSo5Q4ilAUXh7kpjyIP5odyc=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe-ui-default.min.js" integrity="sha256-PWHOlUzc96pMc8ThwRIXPn8yH4NOLu42RQ0b9SpnpFk=" crossorigin="anonymous"></script>
+    {{ end }}
+  </body>
+</html>

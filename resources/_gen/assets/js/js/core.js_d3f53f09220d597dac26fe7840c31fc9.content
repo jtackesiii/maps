@@ -1,0 +1,4 @@
+function cardPressed(){this.TagList.add('card-hover');}
+function cardReleased(){this.TagList.remove('card-hover');}
+function responsiveRow(){if((document.getElementById("responsive").children.length%3)!==0){$("#responsive").css("padding","0 25vw");}}
+$(document).ready(function(){responsiveRow();});const callback=(entries,observer)=>{entries.forEach(entry=>{const anchor=document.querySelector('#'+entry.target.id);if(entry.isIntersecting){anchor.classList.add('activeAnchor');console.log($('h1.activeAnchor').attr('id'));}else{anchor.classList.remove('activeAnchor');}});};const options={threshold:0.5};const observer=new IntersectionObserver(callback,options);const container=$("article.post.dropcase");const targetElements=document.querySelectorAll('h1');targetElements.forEach(element=>{observer.observe(element);});

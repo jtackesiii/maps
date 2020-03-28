@@ -1,13 +1,42 @@
 <head>
-     <meta charset="UTF-8">
-     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.5.1/dist/leaflet.css" />
-     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css"
-       integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp"
-       crossorigin="anonymous" />
-     <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.css" />
-     <link rel="stylesheet" type="text/css" href="/css/default.css" />
-     <title>Maps | Nick Tackes</title>
+  <meta charset="utf-8" />
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <title>{{ if not .IsHome }}{{with .Title }}{{ . }} &middot; {{ end }}{{ end }}{{ .Site.Title }}</title>
+  <meta name="description" content="{{if .IsHome}}{{ $.Site.Params.description }}{{else}}{{.Description}}{{end}}" />
+  {{ if (fileExists "static/apple-touch-icon.png") -}}
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  {{ end -}}
+  {{ if (fileExists "static/favicon-32x32.png") -}}
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  {{ end -}}
+  {{ if (fileExists "static/favicon-16x16.png") -}}
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  {{ end -}}
+  {{ if (fileExists "static/site.webmanifest") -}}
+  <link rel="manifest" href="/site.webmanifest">
+  {{ end -}}
+  {{ if (fileExists "static/safari-pinned-tab.svg") -}}
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+  {{ end -}}
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css"
+    integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp"
+    crossorigin="anonymous" />
+  <link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.10.0/dist/katex.min.css" integrity="sha384-9eLZqc9ds8eNjO3TmqPeYcDj8n+Qfa4nuSiGYa6DjLNcv9BtN69ZIulL9+8CqC9Y" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.5.1/dist/leaflet.css" />
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  {{ $mainStyle := resources.Get "css/style.css" }}
+  {{ $xcodeStyle := resources.Get "css/xcode.css" }}
+  {{ $fontStyle := resources.Get "css/latolatinfonts.css" }}
+  {{ $overrideStyle := resources.Get "css/override.css" }}
+  {{ $galleryStyle := resources.Get "css/hugo-easy-gallery.css" }}
+  {{ $mapStyle := resources.Get "css/map.css" }}
+  {{ $style := slice $xcodeStyle $fontStyle $mainStyle $overrideStyle $galleryStyle $mapStyle | resources.Concat "css/concated.css" | minify }}
+  <link href="{{ $style.Permalink }}" rel="stylesheet">
+  {{ range .AlternativeOutputFormats -}}
+    {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+  {{ end -}}
+  {{ template "_internal/google_analytics.html" . }}
 </head>

@@ -1,0 +1,161 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "JamaMasjid",
+        "name": "Jama Masjid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.67981,
+          27.5063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "jGullyBrahmaKumaris",
+        "name": "Jain Gully Brahma Kumaris Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6787793636322,
+          27.505706854724263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "akhand-jyoti-sansthan",
+        "name": "Akhand Jyoti Sansthan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.67995953559875,
+          27.504212816830467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "DirghaVishnu",
+        "name": "Dirgha Vishnu Mandir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.67933189868927,
+          27.50290908566228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HoliGate",
+        "name": "Holi Gate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.68539905548094,
+          27.499230957913838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "VishramGhat",
+        "name": "Vishram Ghat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.68642097711563,
+          27.504774272940384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "GatashramVishnu",
+        "name": "Gatashram Vishnu Mandir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.68547147512436,
+          27.504346043963235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "DwarkadishMandir",
+        "name": "Dwarkadish Mandir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.68492698669434,
+          27.505169193742244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ShyamVarahMandir",
+        "name": "Shyam Varah Mandir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.68309,
+          27.50513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ShwetaVarahMandir",
+        "name": "Shweta Varah Mandir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.68326,
+          27.50493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "id": "sanjhi-shop",
+        "name": "Sanjhi Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.685950,
+          27.503741
+        ]
+      }
+    }
+  ]
+}
