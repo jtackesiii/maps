@@ -7,7 +7,7 @@ Documentation and licence at https://github.com/liwenyip/hugo-easy-gallery/
 <div class="gallery caption-position-{{ with .Get "caption-position" | default "bottom" }}{{.}}{{end}} caption-effect-{{ with .Get "caption-effect" | default "fade" }}{{.}}{{end}} hover-effect-{{ with .Get "hover-effect" | default "zoom" }}{{.}}{{end}} {{ if ne (.Get "hover-transition") "none" }}hover-transition{{end}}" itemscope itemtype="http://schema.org/ImageGallery">
 	{{- with (.Get "dir") -}}
 		<!-- If a directory was specified, generate figures for all of the images in the directory -->
-		{{- $files := readDir (print "/static/" .) }}
+		{{- $files := readDir (print "/static" .) }}
 		{{- range $files -}}
 			<!-- skip files that aren't images, or that inlcude the thumb suffix in their name -->
 			{{- $thumbext := $.Get "thumb" | default "-thumb" }}
