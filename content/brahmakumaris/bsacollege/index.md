@@ -15,4 +15,8 @@ zoom: 16
 
 {{< load-photoswipe >}}
 
-{{< gallery dir="/img/bsacollege" />}}
+# BK Vinod
+
+# BK Sujata
+
+# BSA College Auditorium

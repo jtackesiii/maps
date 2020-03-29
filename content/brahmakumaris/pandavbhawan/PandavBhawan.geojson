@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "OmShantiBhawan",
+        "id": "om-shanti-bhawan",
         "name": "Om Shanti Bhawan"
       },
       "geometry": {
@@ -60,7 +60,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "BabasCottage",
+        "id": "baba-s-cottage",
         "name": "Baba's Cottage"
       },
       "geometry": {
@@ -74,7 +74,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "BabasRoom",
+        "id": "baba-s-room",
         "name": "Baba's Room"
       },
       "geometry": {
@@ -88,7 +88,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "BabasPillar",
+        "id": "baba-s-pillar",
         "name": "Baba's Pillar"
       },
       "geometry": {
@@ -102,7 +102,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "HistoryHall",
+        "id": "history-hall",
         "name": "History Hall"
       },
       "geometry": {
