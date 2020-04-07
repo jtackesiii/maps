@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "DiamondHall",
+        "id": "diamond-hall",
         "name": "Diamond Hall"
       },
       "geometry": {
@@ -18,7 +18,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "VIPhousing",
+        "id": "vip-housing",
         "name": "VIP Housing"
       },
       "geometry": {
@@ -32,7 +32,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "BabasRoom",
+        "id": "baba-s-room",
         "name": "Baba's Room"
       },
       "geometry": {
@@ -46,7 +46,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "PrakashmaniGarden",
+        "id": "prakashmani-garden",
         "name": "Prakashmani Garden"
       },
       "geometry": {
@@ -88,8 +88,8 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "TransportationDepartment",
-        "name": "Transportation Department"
+        "id": "transportation-wing",
+        "name": "Transportation Wing"
       },
       "geometry": {
         "type": "Point",
@@ -102,7 +102,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "RadioMadhuban",
+        "id": "radio-madhuban",
         "name": "Radio Madhuban"
       },
       "geometry": {
@@ -116,7 +116,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "VIPdining",
+        "id": "vip-dining",
         "name": "VIP Dining Hall"
       },
       "geometry": {
@@ -130,7 +130,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "EverHealthyHospital",
+        "id": "ever-healthy-hospital",
         "name": "Ever Healthy Hospital"
       },
       "geometry": {
@@ -144,7 +144,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "MainDiningHall",
+        "id": "dining-hall",
         "name": "Main Dining Hall"
       },
       "geometry": {
@@ -158,7 +158,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ResidentialUnits",
+        "id": "residential-units",
         "name": "Residential Units"
       },
       "geometry": {
@@ -172,7 +172,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ConstructionStore",
+        "id": "construction-store",
         "name": "Construction Store"
       },
       "geometry": {

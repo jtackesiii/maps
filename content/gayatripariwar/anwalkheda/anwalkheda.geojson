@@ -1,0 +1,261 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "id": "reception-office",
+        "name": "Reception Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.13435256481169,
+          27.333392774987345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "id": "bookstore",
+        "name": "Bookstore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.13422918319702,
+          27.333378478547786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "id": "storage",
+        "name": "Storage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1344598531723,
+          27.3335738630622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "id": "gayatri-temple",
+        "name": "Gayatri Temple"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.13394486904144,
+          27.333769247232247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "id": "administration",
+        "name": "Administration"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1342613697052,
+          27.33375971630512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "id": "residential-units",
+        "name": "Residential Units"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.13356935977936,
+          27.334260088871776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "id": "yagyashala",
+        "name": "Yagyashala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.13378393650055,
+          27.33387885283538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "id": "acupressure-garden",
+        "name": "Acupressure Garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.13354790210722,
+          27.33403611285927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "id": "dining-hall",
+        "name": "Dining Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.13327968120575,
+          27.33416954543185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "id": "cow-shelters",
+        "name": "Cow Shelters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.13277542591095,
+          27.334612731038074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "id": "manufacturing-shed",
+        "name": "Manufacturing Shed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.13257157802582,
+          27.335074976502845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "id": "apothecary",
+        "name": "Apothecary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.13217997550964,
+          27.3349701374943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "id": "women-s-college",
+        "name": "Women's College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.13194930553436,
+          27.334665150723765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "id": "birth-site",
+        "name": "Birth Site of Ram Sharma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.13659220933914,
+          27.333978927421843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "id": "sun-temple",
+        "name": "Sun Temple"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.13678801059723,
+          27.33376686450052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "id": "natal-home",
+        "name": "Ram Sharma's Natal Home"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.13665390014648,
+          27.333831198238617
+        ]
+      }
+    }
+  ]
+}

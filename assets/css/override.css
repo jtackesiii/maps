@@ -111,6 +111,10 @@
   width: 40vw;
 }
 
+h1:not(.post-title) {
+  font-size: 1.5em;
+}
+
 .back-button {
   float: right;
 }

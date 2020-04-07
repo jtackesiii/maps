@@ -44,10 +44,11 @@ $(document).ready(function() {
 				// Scroll to anchor on map click
 				var element = document.getElementById(layer.feature.properties.id);
 				layer.on('click', function() { element.scrollIntoView({ behavior: 'smooth', block: 'start' }) });
-				// Open popup on page scroll
+				// Open popup and pan map on page scroll
 				$("article.post.dropcase").scroll(function() {
 					if ( $('h1.activeAnchor').attr('id') === layer.feature.properties.id ) {
     				layer.openPopup();
+						map.panTo([feature.geometry.coordinates[1], feature.geometry.coordinates[0] ]);
   					}
 				});
 			},

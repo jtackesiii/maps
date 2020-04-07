@@ -4,8 +4,8 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "NewBSABKCenter",
-        "name": "New Brahma Kumaris Center"
+        "id": "bk-vinod-s-center",
+        "name": "BK Vinod's Center"
       },
       "geometry": {
         "type": "Point",
@@ -18,8 +18,8 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "BSABKCenter",
-        "name": "BSA College Brahma Kumaris Center"
+        "id": "bk-sujata-s-center",
+        "name": "BK Sujata's Center"
       },
       "geometry": {
         "type": "Point",
@@ -32,14 +32,14 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "BSACampus",
-        "name": "BSA College Campus"
+        "id": "bsa-college-auditorium",
+        "name": "BSA College Auditorium"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.67065763473511,
-          27.492435852729894
+          77.672101399400,
+          27.4926
         ]
       }
     }
