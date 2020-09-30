@@ -18,7 +18,7 @@
     {
       "type": "Feature",
       "properties": {
-       "id": "RangeshwarMahadev",
+        "id": "RangeshwarMahadev",
         "name": "Shri Rangeshwar Mahadev Sirsana Bagichi"
       },
       "geometry": {
@@ -40,6 +40,40 @@
         "coordinates": [
           77.668401,
           27.500078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": "GokarnNathMandir",
+        "name": "Gokarn Nath Mandir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.67457902431488,
+          27.516773522800985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "id": "PipaleshwarMandir",
+        "name": "Pipaleshwar Mandir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6869617,
+          27.5042423
         ]
       }
     },
@@ -499,12 +533,28 @@
             27.51760133713513
           ],
           [
-            77.67539441585541,
-            27.51780115345469
+            77.67460852861404,
+            27.517627503578595
           ],
           [
-            77.67567873001099,
-            27.516749734940657
+            77.67468094825745,
+            27.517204082183376
+          ],
+          [
+            77.6746729016304,
+            27.516668856177102
+          ],
+          [
+            77.67505913972855,
+            27.51671643192758
+          ],
+          [
+            77.67527639865875,
+            27.516642689505552
+          ],
+          [
+            77.67569214105606,
+            27.516640310716927
           ],
           [
             77.67573237419128,
