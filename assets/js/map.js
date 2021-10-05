@@ -1,5 +1,11 @@
 $(document).ready(function() {
 
+	//mobile-device check
+	var is_mobile = false;
+
+    if( $('#mobile-footer-spacer').css('visibility')=='visible') {
+        is_mobile = true;
+    }
 	// Intialize the map as the variable "map"
 	// This also hides the + / - zoom controls.
 	const map = L.map("mapdiv", { zoomControl: false });
@@ -43,14 +49,16 @@ $(document).ready(function() {
 				layer.on('mouseout', function() { layer.closePopup(); });
 				// Scroll to anchor on map click
 				var element = document.getElementById(layer.feature.properties.id);
-				layer.on('click', function() { element.scrollIntoView({ behavior: 'smooth', block: 'start' }) });
-				// Open popup and pan map on page scroll
-				$("article.post.dropcase").scroll(function() {
-					if ( $('h1.activeAnchor').attr('id') === layer.feature.properties.id ) {
-    				layer.openPopup();
-						map.panTo([feature.geometry.coordinates[1], feature.geometry.coordinates[0] ]);
-  					}
-				});
+				if (is_mobile == false) {
+					layer.on('click', function() { element.scrollIntoView({ behavior: 'smooth', block: 'start' }) });
+					// Open popup and pan map on page scroll
+					$("article.post.dropcase").scroll(function() {
+						if ( $('h1.activeAnchor').attr('id') === layer.feature.properties.id ) {
+    					layer.openPopup();
+							map.panTo([feature.geometry.coordinates[1], feature.geometry.coordinates[0] ]);
+  						}
+					});
+				}
 			},
 			pointToLayer: function (feature, latlng) {
 				return L.marker(latlng, {icon: L.divIcon(

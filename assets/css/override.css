@@ -176,6 +176,10 @@ h1:not(.post-title) {
   background: black;
 }
 
+#mobile-footer-spacer {
+  visibility: hidden;
+}
+
 @media only screen and (max-width: 700px) {
   #map-box {
     padding-left: 10vw;
@@ -186,6 +190,7 @@ h1:not(.post-title) {
   #mapdiv.leaflet-container {
     height: 80vh;
     width: 80vw;
+    margin-bottom: 50px;
   }
   .post {
     width: 100%;
@@ -195,5 +200,8 @@ h1:not(.post-title) {
   }
   .menu-link.clicky-card, .card-img {
     width: 75vw;
+  }
+  #mobile-footer-spacer {
+    visibility: visible;
   }
 }
