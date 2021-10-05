@@ -175,3 +175,25 @@ h1:not(.post-title) {
 ::-webkit-scrollbar-thumb:hover {
   background: black;
 }
+
+@media only screen and (max-width: 700px) {
+  #map-box {
+    padding-left: 10vw;
+    padding-right: 10vw;
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+  }
+  #mapdiv.leaflet-container {
+    height: 80vh;
+    width: 80vw;
+  }
+  .post {
+    width: 100%;
+  }
+  #responsive .row {
+    padding: 0;
+  }
+  .menu-link.clicky-card, .card-img {
+    width: 75vw;
+  }
+}
