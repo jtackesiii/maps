@@ -7,6 +7,9 @@
       <div id="coords">{{ .Params.coords }}</div>
       <div id="zoom">{{ .Params.zoom }}</div>
     </div>
+    <div id="map-box">
+      <div id="mapdiv"></div>
+    </div>
     <div id="text-box">
       <article class="post {{ if ne .Params.dropcap false }}dropcase{{ end }}">
         <header class="post-header">
@@ -18,11 +21,7 @@
         </header>
         {{ .Content }}
       </article>
-    <div id="map-box">
-      <div id="mapdiv">
-      </div>
-    <div id="mobile-footer-spacer" class="spacer"></div>
-    </div>
+    <div id="mobile-footer-spacer"></div>
     {{ partial "footer.html" . }}
     {{ partial "scripts.html" . }}
   </body>
